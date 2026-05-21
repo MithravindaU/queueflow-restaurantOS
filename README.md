@@ -1,2 +1,38 @@
-# RESTAURANT-ORDER-MANAGEMENT-SYSTEM-USING-QUEUES-AND-STACKS
-A console-based application developed in C programming language that demonstrates the practical application of queue and stack data structures in real-world scenarios. The system utilizes a queue to manage pending customer orders by FIFO principle. Completed orders are stored in a stack using LIFO approach, allowing retrieval of recent orders.
+# QueueFlow RestaurantOS 🍽️
+
+![C](https://img.shields.io/badge/C-Language-blue?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data-Structures-important?style=for-the-badge)
+
+## 🚀 Overview
+
+QueueFlow RestaurantOS is a restaurant order management system built using queues and stacks for efficient order processing.
+
+---
+
+## 🧠 Technologies Used
+
+- C Programming
+- Queues
+- Stacks
+
+---
+
+## 📊 Features
+
+- Order management
+- Queue processing
+- Structured workflow system
+
+---
+
+## 🔮 Future Improvements
+
+- Kitchen dashboard
+- Billing integration
+- Inventory management
+
+---
+
+## 👩‍💻 Author
+
+Mithravinda
